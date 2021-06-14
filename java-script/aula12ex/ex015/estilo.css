@@ -1,0 +1,22 @@
+body {
+    background: rgb(50, 150, 150);
+    font: normal 13pt "Averia Libre";
+}
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4);
+}
+section {
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.4);
+}
+footer {
+    color: white;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgba(0, 0, 0, 0.4)
+}

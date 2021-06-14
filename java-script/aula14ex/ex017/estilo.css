@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Nunito:700&display=swap');
+
+body {
+    background: rgb(50, 150, 250);
+    font-family: 'Nunito', sans-serif;
+}
+header {
+    color: white;
+    text-align: center;
+}
+section {
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+}
+footer {
+    color: white;
+    text-align: center;
+}
+div {
+    text-align: left;
+}

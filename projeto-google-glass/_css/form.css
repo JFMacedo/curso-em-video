@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+label {
+	vertical-align: top;
+}
+
+input#botao {
+	margin: 20px;
+}
+
+form {
+	width: 700px;
+	margin: auto;
+}
+
+input, textarea {
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+input:hover, textarea:hover {
+	background-color: rgb(235, 245, 240);
+}
+
+input#botao:hover {
+	background-color: none;
+}
+
+legend {
+	color: rgb(105, 115, 110);
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+fieldset {
+	border-color: rgb(195, 205, 200);
+	margin: 20px;
+}
+
+fieldset#sexo {
+	width: 150px;
+	margin-left: 50px;
+}

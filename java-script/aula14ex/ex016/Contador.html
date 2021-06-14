@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Super Contador</title>
+    <link rel="stylesheet" href="contador.css">
+</head>
+<body>
+    <header>
+        <h1>Vamos Contar</h1>
+    </header>
+    <section>
+        <div id="entrada">
+            <table>
+                <tr><td>Início:</td><td><input type="number" name="inicio" id="inicio"></td></tr>
+                <tr><td>Fim:</td><td><input type="number" name="fim" id="fim"></td></tr>
+                <tr><td>Passo:</td><td><input type="number" name="passo" id="passo"></td></tr>
+            </table>
+            <input type="button" value="Contar" onclick="contar()">
+        </div>
+        <div id="saida">
+            Preparando contagem...
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Jean Fernandes de Macedo</p>
+    </footer>
+    <script src="contador.js"></script>
+</body>
+</html>

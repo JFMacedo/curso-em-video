@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Asul&display=swap');
+
+body {
+    background-image: linear-gradient(to top, rgb(55, 0, 100), rgb(105, 50, 150));
+    background-size: 1920px 1080px;
+    font-family: 'Asul', sans-serif;
+}
+
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 5px black;
+}
+
+section {
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 0px 0px 5px black;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    text-shadow: 0px 0px 5px black;
+}
+
+select {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 200px;
+    font-family: 'Asul', sans-serif;
+}
+
+input {
+    font-family: 'Asul', sans-serif;
+}
+
+p {
+    margin-bottom: -10px;
+}
+
+input#cnum {
+    width: 100px;
+}

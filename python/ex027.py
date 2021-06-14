@@ -1,0 +1,5 @@
+print('\033[30;45m{:=^51}\033[m'.format(' Exercício 027 '))
+nome = str(input('Digite um nome completo: ')).strip().split()
+print('\033[35mPrazer em conhecer você!\033[m')
+print('\033[35mSeu primeiro nome é {}\033[m'.format(nome[0]))
+print('\033[35mSeu ultimo nome é {}\033[m'.format(nome[len(nome)-1]))

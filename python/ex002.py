@@ -1,0 +1,5 @@
+print('{:=^51}'.format(' Exercícico 002 '))
+dia = input('Dia de nascimento: ')
+mes = input('Mês de nascimento: ')
+ano = input('Ano de nascimento: ')
+print('\033[4;33mVocê nasceu dia {} de {} de {}, correto?\033[m'.format(dia, mes, ano))

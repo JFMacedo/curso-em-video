@@ -1,0 +1,12 @@
+Jean;28
+Jéssica;28
+Jeferson;31
+Pedro;10
+Paulo;20
+Alex;50
+Jandira;54
+Francisco;53
+Jean;28
+Jean;28
+;0
+;0

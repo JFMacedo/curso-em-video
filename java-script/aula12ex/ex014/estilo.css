@@ -1,0 +1,29 @@
+body {
+    background: rgb(50, 150, 250);
+    font: normal 15pt "Calibri";
+}
+header {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+section {
+    background: white;
+    border-radius: 5px;
+    padding: 15px;
+    width: 60%;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.356);
+}
+footer {
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+div {
+    text-align: center
+}
+img {
+    width: 300px;
+    padding-top: 15px;
+}
